@@ -1,6 +1,6 @@
 #Composer bundle for Laravel
 
-This bundle will cause your Composer packages to load automatically.
+This bundle will autoload your Composer packages.
 
 
 ##Composer Setup
@@ -32,6 +32,10 @@ Include it in application/bundles.php
 	return array(
 		'composer' => array('auto' => true),
 	);
+  
 
-
+Now you can use Composer packages and they will be loaded automatically.  
+  
+See [Packagist.org](http://packagist.org) for Composer packages.  
+  
 Bundle created by [Ben Edmunds](http://benedmunds.com).
