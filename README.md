@@ -17,7 +17,8 @@ Create a composer.json file at the root of your project
 	    }
 	}
   
-Install your composer packages
+Install your composer packages  
+
 	php composer.phar install  
 
   
