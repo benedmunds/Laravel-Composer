@@ -21,7 +21,7 @@ Install your composer packages
 
 	php composer.phar install  
 
-  
+    
 
 ##Bundle Setup
 Install the composer bundle  
