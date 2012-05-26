@@ -11,4 +11,4 @@
  * @link      https://github.com/benedmunds/Laravel-Composer
  */
 
-require path('base').DS.'vendor'.DS.'.composer'.DS.'autoload.php';
+require path('base').DS.'vendor'.DS.'autoload.php';
