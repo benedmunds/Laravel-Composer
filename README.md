@@ -12,8 +12,7 @@ Create a composer.json file at the root of your project
   
 	{
 	    "require": {
-	        "php": ">=5.3.0",
-	        "doctrine/mongodb": ">=0.0.0"
+	        "php": ">=5.3.0"
 	    }
 	}
   
